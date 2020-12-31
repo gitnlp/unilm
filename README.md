@@ -10,9 +10,9 @@ The family of UniLM:
 
 >[**LayoutLM**](https://github.com/microsoft/unilm/tree/master/layoutlm) (```v1@KDD'20 | v2```): **multimodal (text + layout/format + image) pre-training for document understanding** (e.g. scanned documents, PDF, etc.)
 
->[**AdaLM**](https://github.com/microsoft/unilm) (```v1```): **Domain adaptation of pre-trained models**
+>[**AdaLM**](https://github.com/microsoft/unilm) (```NEW```): **Domain adaptation of pre-trained models**
 
->[**XLM-T**](https://github.com/microsoft/unilm) (```v1```): **Language model pre-training for multilingual NMT**
+>[**XLM-T**](https://github.com/microsoft/unilm) (```NEW```): **Language model pre-training for multilingual NMT**
 
 >  [**s2s-ft**](https://github.com/microsoft/unilm/tree/master/s2s-ft): **sequence-to-sequence fine-tuning toolkit**
 
